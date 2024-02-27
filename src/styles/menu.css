@@ -1,0 +1,16 @@
+.menu-container {
+  background-color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+.menu-image {
+  width: 55%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .menu-image {
+    width: 100%;
+  }
+}
