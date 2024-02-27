@@ -5,7 +5,7 @@ function LogoNavbar() {
   return (
     <section className='portada'>
       <div className='contenido-portada'>
-        <img src='logo.png' className='logo'></img>
+        <img src='/assets/logo.png' className='logo'></img>
 
         {/* Botones para pedir */}
         <div className='contenedor-botones'>

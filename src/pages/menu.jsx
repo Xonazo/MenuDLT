@@ -5,7 +5,7 @@ function Menu() {
   return (
     <div className="menu-container">
       <img
-        src="final3.jpg"
+        src="/assets/final3.jpg"
         alt="Descripción de la imagen"
         className="menu-image"
       />

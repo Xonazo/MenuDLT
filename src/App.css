@@ -38,7 +38,7 @@ body{
 
 
 .ubicacion{
-  background-image: url("fondo_pag.jpg");
+  background-image: url("/assets/fondo_pag.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-position: left;
